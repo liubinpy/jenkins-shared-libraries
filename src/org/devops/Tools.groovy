@@ -1,6 +1,6 @@
 package org.devops
 
 // 打印内容
-def printMsg(content){
+def PrintMsg(content){
     println(content)
 }
